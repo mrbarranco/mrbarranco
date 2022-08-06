@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mrbarranco
+- 👋 Hi, I’m @mrbarranco. Game Developer and instructor for Coyote Digital Games.
 - 👀 I’m interested in build games and applications for a diverse audience.
 - 🌱 I’m currently developing skills in JavaScript, React, and Unreal Engine 5.
 - 💞️ I’m looking to collaborate with others that are learning.
